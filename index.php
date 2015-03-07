@@ -10,7 +10,7 @@
 <script src="js/main.js"></script>
 </head>
 <?php
-	include_once 'navigation.html'
+	include_once 'nav.php'
 ?>
 <body>
 </body>
